@@ -1,0 +1,30 @@
+_repo: The-Interpreters-of-Genesis-and-the-Interpreters-of-Nature--13-Essay--4-from--Science-and-Hebr__2630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology'
+- !lcsh 'Science'
+- !lcsh 'Bible and science'
+- !lcsh 'Evolution'
+- !lcc 'Q'
+- GITenberg
+title: "The Interpreters of Genesis and the Interpreters of Nature\r\nEssay #4 from\
+  \ \"Science and Hebrew Tradition\""
+url: http://www.gutenberg.org/ebooks/2630
